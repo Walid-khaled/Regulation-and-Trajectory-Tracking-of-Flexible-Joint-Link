@@ -1,5 +1,5 @@
-## Feedback-Linearization-of-Flexible-Joint-Link
-Regulation and trajectory tracking of flexible joint link. 
+## Regulation--and-Trajectory-Tracking-of-Flexible-Joint-Link
+Regulation and trajectory tracking of flexible joint link. State transformation and feedback linearization are applied.
 It is a solution of Assignment2 in Fundamentals of Robot Control course for ROCV master's program at Innopolis University.
 
 ---
