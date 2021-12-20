@@ -1,5 +1,6 @@
 ## Feedback-Linearization-of-Flexible-Joint-Link
-In this repository, PD control is applied to stabilize the satellite on the desired orbit. It is a solution of Assignment2 in Fundamentals of Robot Control course for ROCV master's program at Innopolis University.
+Regulation and trajectory tracking of flexible joint link. 
+It is a solution of Assignment2 in Fundamentals of Robot Control course for ROCV master's program at Innopolis University.
 
 ---
 ### Task description
